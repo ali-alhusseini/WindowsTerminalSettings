@@ -2,7 +2,7 @@
 
 Microsoft's Windows Terminal is a great place to configure and customize all of your consoles and command-lines. This repository contains all the files and settings that I apply in my terminal.
 
-## 📷 Screenshots
+## 📷 **Screenshots**
 
 A few screenshots showing the different profiles I have set up in my Windows Terminal.
 
@@ -15,7 +15,7 @@ A few screenshots showing the different profiles I have set up in my Windows Ter
 - **cmd or Command Prompt**
 ![Command Prompt in the Windows Terminal](https://user-images.githubusercontent.com/61102155/87621426-2b115780-c6f7-11ea-8bdc-8957b3af8fc8.png "Command Prompt in the Windows Terminal")
 
-## 🐣 Getting Started
+## 🐣 **Getting Started**
 
 A few steps showing how to setup the Windwos Terminal in the way previewd in the Screenshots section.
 
@@ -29,3 +29,15 @@ A few steps showing how to setup the Windwos Terminal in the way previewd in the
     > You also can add different profiles to the Windows Terminal like Git Bash.
     > To add Git Bash to your terminal with an icon you can check the `settings.json` file in this source repository and you can copy the profile.  
     > ⚠ Warning: Make sure you delete or change the path of the `"BackgroundImage:` attribute if you copy the code from the file.
+
+## 👾 **Credits**
+
+I have used a few libraries and code from other people while setting up my terminal, here I list some of the packages and fonts and articles I used to finish the look of my Windows Terminal:
+
+- [Windows Terminal](https://github.com/microsoft/terminal "Terminal's page on Github")
+
+- [posh-git](https://github.com/dahlbyk/posh-git "posh-git's page on Github")
+
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh "oh-my-posh's page on Github")
+
+- [Cascadia Code Font](https://github.com/microsoft/cascadia-code "Cascadia Code's page on Github")
