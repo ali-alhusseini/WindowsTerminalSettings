@@ -1,4 +1,4 @@
 # Windows Terminal Settings and Profile Configurations
----
-### The *Windows Terminal* is a great place to modernize and configure different command line consoles.
-### This Repository contains all the files and settings that I use in my Windows Terminal.
+
+Microsoft's Windows Terminal is a great place to configure and customize all of your consoles and command-lines.
+This repository contains all the files and settings that I apply in my terminal.
