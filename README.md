@@ -1,2 +1,1 @@
-# Windows Terminal Settings
-A copy of the Windows Terminal settings json file.
+#Windows Terminal Settings and Profile Configurations
