@@ -41,3 +41,5 @@ I have used a few libraries and code from other people while setting up my termi
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh "oh-my-posh's page on Github")
 
 - [Cascadia Code Font](https://github.com/microsoft/cascadia-code "Cascadia Code's page on Github")
+
+- [Wallpaperhub \(Backgrounds\)](https://wallpaperhub.app/ "Wallpaperhub's website")
