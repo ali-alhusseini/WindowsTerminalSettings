@@ -17,4 +17,15 @@ A few screenshots showing the different profiles I have set up in my Windows Ter
 
 ## 🐣 Getting Started
 
+A few steps showing how to setup the Windwos Terminal in the way previewd in the Screenshots section.
 
+1. **Installing and Configuring the Windows Terminal**
+    1. [Install](https://aka.ms/terminal) the Windows Terminal from the Microsoft Store.
+
+    2. After successful installation, you need to access the terminal settings by clicking the down-arrow `▼` or by using the keyboard shortcut `ctrl + ,`.
+
+    3. In the `settings.json` file you can update a lot of settings to make the terminal look the way you want it to. Start by checking the [Windows Terminal Docs](https://docs.microsoft.com/en-us/windows/terminal/).
+
+    > You also can add different profiles to the Windows Terminal like Git Bash.
+    > To add Git Bash to your terminal with an icon you can check the `settings.json` file in this source repository and you can copy the profile.  
+    > ⚠ Warning: Make sure you delete or change the path of the `"BackgroundImage:` attribute if you copy the code from the file.
