@@ -14,3 +14,7 @@ A few screenshots showing the different profiles I have set up in my Windows Ter
 
 - **cmd or Command Prompt**
 ![Command Prompt in the Windows Terminal](https://user-images.githubusercontent.com/61102155/87621426-2b115780-c6f7-11ea-8bdc-8957b3af8fc8.png "Command Prompt in the Windows Terminal")
+
+## 🐣 Getting Started
+
+
